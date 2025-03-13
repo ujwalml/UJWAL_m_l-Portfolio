@@ -97,7 +97,7 @@ const Work = () => {
             </a>
             {/*image */}
             <a
-              href="https://yourproject3.com"
+              href="https://ujwal-m-l-portfolio.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
