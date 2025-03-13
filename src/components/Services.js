@@ -11,7 +11,7 @@ const Certifications = [
     name: "Web Development",
     description:
       "Through this course, I gained hands-on experience in frontend and backend development, strengthening my skills in building full-stack applications.",
-    link: "/Udemy_Web_Development_Certificate.pdf",
+    link: "/Udemy_Web_Development_Certificate.png",
   },
   {
     name: "Java",
