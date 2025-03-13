@@ -69,3 +69,11 @@
     @apply py-8 lg:py-24 lg:h-screen flex items-center;
   }
 }
+
+.bg-services{
+  background-image: url('./assets/MY_BANNER.png');
+}
+
+.word-spacing-tight {
+  word-spacing: -2px; /* Adjust this value as needed */
+}
