@@ -69,7 +69,7 @@ const Banner = () => {
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
               <a
-                href="/UJWAL_M_L_RESUME_.pdf"
+                href="/UJWAL_M_L_RESUME_1.pdf"
                 download="Ujwal_ML_Resume.pdf"
                 className="btn btn-lg flex items-center gap-2"
               >
